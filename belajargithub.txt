@@ -3,3 +3,4 @@ Di Tahun 2025 ini mulai belajar menjadi full stack Developer
 2. Belajar HTML & CSS
 3. Belajar Javascript
 4. Membuat Project Sederhana
+5. Belajar Framework

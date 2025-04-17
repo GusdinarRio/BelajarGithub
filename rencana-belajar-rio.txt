@@ -1,0 +1,2 @@
+1.Belajar koneksi ke database SQL Server
+2.Belajar database MongoDB

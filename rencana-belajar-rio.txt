@@ -1,0 +1,4 @@
+1.Belajar koneksi ke database SQL Server
+2.Belajar database MongoDB
+3.Create Project CRUD ke SQL Server
+4.Create Project CRUD ke SQL Server

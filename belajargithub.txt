@@ -1,0 +1,4 @@
+Di Tahun 2025 ini mulai belajar menjadi full stack Developer
+1. Belajar Git & Github
+2. Belajar HTML & CSS
+3. Belajar Javascript

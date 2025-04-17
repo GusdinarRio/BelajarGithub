@@ -2,8 +2,7 @@ Di Tahun 2025 ini mulai belajar menjadi full stack Developer
 1. Belajar Git & Github
 2. Belajar HTML & CSS
 3. Belajar Javascript
-   3.1 Belajar Angular JS
+   3.1 Belajar Vue JS
    3.2 Belajar React JS
-4. Membuat Project Angular JS
-5. Membuat Project Sederhana
-6. Belajar Framework
+4. Membuat Project Sederhana
+5. Belajar Framework
